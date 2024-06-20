@@ -1,0 +1,4 @@
+﻿  Window.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Libraries\GLAD\OpenGL 4.6\include\glad\glad.h(32,1): message : see previous definition of 'APIENTRY'
+  aide.vcxproj -> D:\dev\GAME\aide\x64\Debug\aide.exe
